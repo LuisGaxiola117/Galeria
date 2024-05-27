@@ -6,13 +6,13 @@ html,body{
 .header{
     display: flex;
     flex-direction: row;
-gap: 800px;
+    gap: 800px;
     background-color: #ce1b6049;
 }
 .imagenes_head{
     display: flex;
     flex-direction: row-reverse;
-  gap: 30px;
+    gap: 30px;
 }
 .div_texto_imagen{
     display: flex;
